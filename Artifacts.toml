@@ -1,0 +1,97 @@
+[[Graphite2]]
+arch = "x86_64"
+git-tree-sha1 = "5a8a05d3e3a6c519d5ce21b495449cf2bcb87e71"
+libc = "glibc"
+os = "linux"
+
+    [[Graphite2.download]]
+    sha256 = "8ff8e87ce7aef15d41a50ed3ca0d9498c4357d2698dd7db26ae6d07bbcb734cb"
+    url = "https://github.com/JuliaBinaryWrappers/Graphite2_jll.jl/releases/download/Graphite2-v1.3.13+0/Graphite2.v1.3.13.x86_64-linux-gnu.tar.gz"
+[[Graphite2]]
+arch = "x86_64"
+git-tree-sha1 = "2f67b890f53ab2af6d7429b96c71310336943ecb"
+os = "macos"
+
+    [[Graphite2.download]]
+    sha256 = "4b963c856705132e2da4a7ea2af209946dfb54bd041a19d2d258bb022603a4fd"
+    url = "https://github.com/JuliaBinaryWrappers/Graphite2_jll.jl/releases/download/Graphite2-v1.3.13+0/Graphite2.v1.3.13.x86_64-apple-darwin14.tar.gz"
+[[Graphite2]]
+arch = "aarch64"
+git-tree-sha1 = "b756678138ba20d2c14816bb799bae45167318bc"
+libc = "glibc"
+os = "linux"
+
+    [[Graphite2.download]]
+    sha256 = "acf585744bbc606ba332902e33cc46e4f35684c02b781eb118f2bcf9c22d5bd9"
+    url = "https://github.com/JuliaBinaryWrappers/Graphite2_jll.jl/releases/download/Graphite2-v1.3.13+0/Graphite2.v1.3.13.aarch64-linux-gnu.tar.gz"
+[[Graphite2]]
+arch = "i686"
+git-tree-sha1 = "7b6b5dc00075e860d4de5b81eddb9d2754a7e642"
+libc = "musl"
+os = "linux"
+
+    [[Graphite2.download]]
+    sha256 = "fadc98c4cbb9f1fe5005af34bcf8b4f058bfbeaeff13844f825025a89f1a284c"
+    url = "https://github.com/JuliaBinaryWrappers/Graphite2_jll.jl/releases/download/Graphite2-v1.3.13+0/Graphite2.v1.3.13.i686-linux-musl.tar.gz"
+[[Graphite2]]
+arch = "powerpc64le"
+git-tree-sha1 = "16e561c3135f68e14d3545feb77879c4eab5b1d5"
+libc = "glibc"
+os = "linux"
+
+    [[Graphite2.download]]
+    sha256 = "3575fc2291a143ad588250e514e7e0831549346539167c972455f3712a0e3943"
+    url = "https://github.com/JuliaBinaryWrappers/Graphite2_jll.jl/releases/download/Graphite2-v1.3.13+0/Graphite2.v1.3.13.powerpc64le-linux-gnu.tar.gz"
+[[Graphite2]]
+arch = "x86_64"
+git-tree-sha1 = "4a795283116acaf32ab6c3fb146fac79b79b05bb"
+os = "freebsd"
+
+    [[Graphite2.download]]
+    sha256 = "c7953a9fe91f7a7ca4e8de964825878d6594d511cda884507acd9d3d482d22f5"
+    url = "https://github.com/JuliaBinaryWrappers/Graphite2_jll.jl/releases/download/Graphite2-v1.3.13+0/Graphite2.v1.3.13.x86_64-unknown-freebsd11.1.tar.gz"
+[[Graphite2]]
+arch = "armv7l"
+git-tree-sha1 = "b9224373ec4f9361bdf7927f87dab5a037cb8210"
+libc = "musl"
+os = "linux"
+
+    [[Graphite2.download]]
+    sha256 = "cb5c17dd0bfcdfdb73e9a313c104f06cf555244a5e045cf852a5461d3ce7c870"
+    url = "https://github.com/JuliaBinaryWrappers/Graphite2_jll.jl/releases/download/Graphite2-v1.3.13+0/Graphite2.v1.3.13.arm-linux-musleabihf.tar.gz"
+[[Graphite2]]
+arch = "aarch64"
+git-tree-sha1 = "4e45c7c629b1417672837b3482f2c0bfc76e15c8"
+libc = "musl"
+os = "linux"
+
+    [[Graphite2.download]]
+    sha256 = "803391b274d1b158166f373f3230ca92a4d880503e5450577d7843e4b749de15"
+    url = "https://github.com/JuliaBinaryWrappers/Graphite2_jll.jl/releases/download/Graphite2-v1.3.13+0/Graphite2.v1.3.13.aarch64-linux-musl.tar.gz"
+[[Graphite2]]
+arch = "i686"
+git-tree-sha1 = "7821fc1e2b8819e99b7a5552daa0202f4954b456"
+libc = "glibc"
+os = "linux"
+
+    [[Graphite2.download]]
+    sha256 = "7bc20a1e9d5273e1770fb76faf0e9c86161108d4d2f7f4a62797bbcfb6eda799"
+    url = "https://github.com/JuliaBinaryWrappers/Graphite2_jll.jl/releases/download/Graphite2-v1.3.13+0/Graphite2.v1.3.13.i686-linux-gnu.tar.gz"
+[[Graphite2]]
+arch = "x86_64"
+git-tree-sha1 = "9cc6eb9b1f52aaa2433cb7a4eac20c9669aa3ecf"
+libc = "musl"
+os = "linux"
+
+    [[Graphite2.download]]
+    sha256 = "5f14dad8a9431fe6ee4b3862e806c2b814d701476e57d49e6b880a84afa53a5e"
+    url = "https://github.com/JuliaBinaryWrappers/Graphite2_jll.jl/releases/download/Graphite2-v1.3.13+0/Graphite2.v1.3.13.x86_64-linux-musl.tar.gz"
+[[Graphite2]]
+arch = "armv7l"
+git-tree-sha1 = "f39b225b77b4b65acdccba79a4c4ba61eb54de19"
+libc = "glibc"
+os = "linux"
+
+    [[Graphite2.download]]
+    sha256 = "934978ae1792d401d6e862b7ffc58db69192bc01c0f9dc89d975573dd461d74a"
+    url = "https://github.com/JuliaBinaryWrappers/Graphite2_jll.jl/releases/download/Graphite2-v1.3.13+0/Graphite2.v1.3.13.arm-linux-gnueabihf.tar.gz"
